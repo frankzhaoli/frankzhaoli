@@ -13,7 +13,7 @@
 
 - 📄 Know about my [experience](https://drive.google.com/file/d/1lLX9lC6z4u5iHRdecZENeMr9nf0_mp1F/view?usp=sharing).
 
-- ⌨️ Fun fact: **I have a keyboard addiction**.
+- ⌨️ Fun fact: **I enjoy collecting records.**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
