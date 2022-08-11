@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **zhao.lang.li2@gmail.com**.
 
-- 📄 Know about my [experience](https://drive.google.com/file/d/1lLX9lC6z4u5iHRdecZENeMr9nf0_mp1F/view?usp=sharing).
+- 📄 Know about my [experience](https://drive.google.com/file/d/1dCUYD3BMGCNZ47avmT37ccDgY3LIq6N1/view?usp=sharing).
 
 - ⌨️ Fun fact: **I enjoy collecting records**.
 
