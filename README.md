@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Spring Boot**.
 
-- ⌨️ I’m currently working on [Above The Switches](https://github.com/frankzhaoli/AboveTheSwitches).
+- ⌨️ I’m currently working on [Javacord](https://github.com/frankzhaoli/Javacord).
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/frankzhaoli).
 
 - 📫 Reach me at **zhao.lang.li2@gmail.com**.
 
-- 📄 Know about my [experience](https://drive.google.com/file/d/1dCUYD3BMGCNZ47avmT37ccDgY3LIq6N1/view?usp=sharing).
+- 📄 Know about my [experience](https://drive.google.com/file/d/1hZ2YtIIRoeAaSLYVIltJb_aB4p3eUsLV/view?usp=share_link).
 
 - ⌨️ Fun fact: **I enjoy collecting records**.
 
