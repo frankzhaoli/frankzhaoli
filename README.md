@@ -11,9 +11,9 @@
 
 - 📫 Reach me at **zhao.lang.li2@gmail.com**.
 
-- 📄 Know about my [experience](https://drive.google.com/file/d/1hZ2YtIIRoeAaSLYVIltJb_aB4p3eUsLV/view?usp=share_link).
+- 📄 Know about my [experience](https://drive.google.com/file/d/1Rz5SFtR-gYn7iW3vCHO5keUIXFBF5zvg/view?usp=sharing).
 
-- ⌨️ Fun fact: **I enjoy collecting records**.
+- ⌨️ Fun fact: **I enjoy collecting vinyl records**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
