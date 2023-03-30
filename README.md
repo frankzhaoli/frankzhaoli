@@ -3,7 +3,7 @@
 
 - 🛰️ I’m currently working at [NASA](https://www.nasa.gov/).
 
-- ⌨️ I’m currently working on [RE-APOD](https://github.com/frankzhaoli/RE-APOD). You can preview the site [here](https://frankzhaoli.github.io/).
+- ⌨️ I’m currently working on [RE-APOD](https://github.com/frankzhaoli/RE-APOD). You can preview the site [here](https://frankzhaoli.github.io/RE-APOD/).
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/frankzhaoli).
 
